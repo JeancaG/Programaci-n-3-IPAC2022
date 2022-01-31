@@ -1,8 +1,8 @@
 namespace ProgramaSuma
 {
-    public partial class Form1 : Form
+    public partial class Funciones : Form
     {
-        public Form1()
+        public Funciones()
         {
             InitializeComponent();
         }

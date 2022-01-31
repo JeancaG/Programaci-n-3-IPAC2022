@@ -1,6 +1,6 @@
 ﻿namespace ProgramaSuma
 {
-    partial class Form1
+    partial class Funciones
     {
         /// <summary>
         ///  Required designer variable.
