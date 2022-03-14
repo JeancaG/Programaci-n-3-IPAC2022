@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "..\Datos\Datos.csproj", "{BE2E8898-F6BA-4186-B247-957E839A60FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factura2022V2", "..\Factura2022V2\Factura2022V2.csproj", "{B715BF65-A963-473A-9449-6AB6C4427B32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2E8898-F6BA-4186-B247-957E839A60FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2E8898-F6BA-4186-B247-957E839A60FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2E8898-F6BA-4186-B247-957E839A60FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2E8898-F6BA-4186-B247-957E839A60FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B715BF65-A963-473A-9449-6AB6C4427B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B715BF65-A963-473A-9449-6AB6C4427B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B715BF65-A963-473A-9449-6AB6C4427B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B715BF65-A963-473A-9449-6AB6C4427B32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E6BB493-EB8B-4682-9E80-8650A7716092}
+	EndGlobalSection
+EndGlobal
