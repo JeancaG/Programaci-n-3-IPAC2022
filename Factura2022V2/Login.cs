@@ -38,8 +38,9 @@ namespace Factura2022V2
                 return;
             }
 
-            FrmUsuarios frmUsuarios = new FrmUsuarios();
-            frmUsuarios.Show();
+            FrmMenu frmMenu = new FrmMenu();
+            frmMenu.Show();
+            this.Hide();
 
         }
 
