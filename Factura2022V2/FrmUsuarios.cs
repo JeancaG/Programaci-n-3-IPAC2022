@@ -156,5 +156,10 @@ namespace Factura2022V2
             DeshabilitarControles();
             LimpiarControles();
         }
+
+        private void UsuariosDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

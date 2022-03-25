@@ -199,6 +199,7 @@
             this.UsuariosDataGridView.Name = "UsuariosDataGridView";
             this.UsuariosDataGridView.Size = new System.Drawing.Size(484, 192);
             this.UsuariosDataGridView.TabIndex = 16;
+            this.UsuariosDataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.UsuariosDataGridView_CellContentClick);
             // 
             // FrmUsuarios
             // 
